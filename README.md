@@ -1,4 +1,4 @@
-<h1> Prova-Tp </h1>
+<h1> Prova de Tecnologias de Programação</h1>
 
 * [Orientações da Atividade](#Orientações-da-Atividade-Construída-Pela-Professora-Virgínia-Mota)
 <h2 name = Orientações-da-Atividade-Construída-Pela-Professora-Virgínia-Mota >Orientações da Atividade Construída Pela Professora Virgínia Mota</h2>
